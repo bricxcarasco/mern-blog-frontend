@@ -15,12 +15,12 @@ const Articles = () => {
 								<div className="image-holder">
 									<img src="upload/blog/home5/a5.jpg" alt="" />
 								</div>
-								<a className="text-link" href={false}>Travel</a>
+								<a className="text-link" href="false">Travel</a>
 								<h2><a href="single-post.html">Vivamus vestibulum ntulla necante.</a></h2>
 								<ul className="post-tags">
 									<li>3 days ago</li>
-									<li><a href={false}>3 comments</a></li>
-									<li>by <a href={false}>John Smith</a></li>
+									<li><a href="false">3 comments</a></li>
+									<li>by <a href="false">John Smith</a></li>
 								</ul>
 								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna viverra donec nec justo eget felis facilisis fermentum Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
 								<a className="text-link" href="single-post.html">Read More</a>
@@ -34,12 +34,12 @@ const Articles = () => {
 										</div>
 									</div>
 									<div className="col-md-6">
-										<a className="text-link" href={false}>Food</a>
+										<a className="text-link" href="false">Food</a>
 										<h2><a href="single-post.html">Nullam malesuada eratut turpis.</a></h2>
 										<ul className="post-tags">
 											<li>3 days ago</li>
-											<li><a href={false}>3 comments</a></li>
-											<li>by <a href={false}>John Smith</a></li>
+											<li><a href="false">3 comments</a></li>
+											<li>by <a href="false">John Smith</a></li>
 										</ul>
 										<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt ...</p>
 										<a className="text-link" href="single-post.html">Read More</a>
@@ -55,12 +55,12 @@ const Articles = () => {
 										</div>
 									</div>
 									<div className="col-md-6">
-										<a className="text-link" href={false}>Lifestyle</a>
+										<a className="text-link" href="false">Lifestyle</a>
 										<h2><a href="single-post.html">Vivamus vestibulum ntulla necante.</a></h2>
 										<ul className="post-tags">
 											<li>3 days ago</li>
-											<li><a href={false}>3 comments</a></li>
-											<li>by <a href={false}>John Smith</a></li>
+											<li><a href="false">3 comments</a></li>
+											<li>by <a href="false">John Smith</a></li>
 										</ul>
 										<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt ...</p>
 										<a className="text-link" href="single-post.html">Read More</a>
@@ -69,7 +69,7 @@ const Articles = () => {
 							</div>
 
 							<div className="advertise-box">
-								<a href={false}>
+								<a href="false">
                                     <img src="upload/banners/ban3.jpg" alt="" />
                                 </a>
 							</div>
@@ -82,12 +82,12 @@ const Articles = () => {
 										</div>
 									</div>
 									<div className="col-md-6">
-										<a className="text-link" href={false}>Lifestyle</a>
+										<a className="text-link" href="false">Lifestyle</a>
 										<h2><a href="single-post.html">Morbi in sem quis duiplacerat ornare hendrerit. </a></h2>
 										<ul className="post-tags">
 											<li>3 days ago</li>
-											<li><a href={false}>3 comments</a></li>
-											<li>by <a href={false}>John Smith</a></li>
+											<li><a href="false">3 comments</a></li>
+											<li>by <a href="false">John Smith</a></li>
 										</ul>
 										<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt ...</p>
 										<a className="text-link" href="single-post.html">Read More</a>
@@ -103,12 +103,12 @@ const Articles = () => {
 										</div>
 									</div>
 									<div className="col-md-6">
-										<a className="text-link" href={false}>Food</a>
+										<a className="text-link" href="false">Food</a>
 										<h2><a href="single-post.html">Aliquam tincidunt mauris.</a></h2>
 										<ul className="post-tags">
 											<li>3 days ago</li>
-											<li><a href={false}>3 comments</a></li>
-											<li>by <a href={false}>John Smith</a></li>
+											<li><a href="false">3 comments</a></li>
+											<li>by <a href="false">John Smith</a></li>
 										</ul>
 										<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt ...</p>
 										<a className="text-link" href="single-post.html">Read More</a>
@@ -117,7 +117,7 @@ const Articles = () => {
 							</div>
 
 							<div className="center-button">
-								<a href={false} className="button-one">Load More</a>
+								<a href="false" className="button-one">Load More</a>
 							</div>
 						</div>
 					</div>
@@ -127,21 +127,21 @@ const Articles = () => {
 							<div className="widget social-widget">
 								<ul className="social-list">
 									<li>
-										<a href={false}>
+										<a href="false">
 											<i className="fa fa-facebook"></i>
 											facebook
 											<span>25k likes</span>
 										</a>
 									</li>
 									<li>
-										<a href={false}>
+										<a href="false">
 											<i className="fa fa-twitter"></i>
 											twitter
 											<span>31k followers</span>
 										</a>
 									</li>
 									<li>
-										<a href={false}>
+										<a href="false">
 											<i className="fa fa-instagram"></i>
 											instagram
 											<span>31k followers</span>
@@ -154,17 +154,17 @@ const Articles = () => {
 								<h2>Categories</h2>
 								<ul className="category-list">
 									<li>
-										<a href={false}>
+										<a href="false">
 											Travel <span>24</span>
 										</a>
 									</li>
 									<li>
-										<a href={false}>
+										<a href="false">
 											Lifestyle <span>16</span>
 										</a>
 									</li>
 									<li>
-										<a href={false}>
+										<a href="false">
 											Food <span>8</span>
 										</a>
 									</li>
@@ -184,32 +184,32 @@ const Articles = () => {
 								<h2>Our Latest Instagram Posts</h2>
 								<ul className="insta-list">
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/1.jpg" alt="" />
                                         </a>
                                     </li>
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/2.jpg" alt="" />
                                         </a>
                                     </li>
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/3.jpg" alt="" />
                                         </a>
                                     </li>
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/4.jpg" alt="" />
                                         </a>
                                     </li>
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/5.jpg" alt="" />
                                         </a>
                                     </li>
 									<li>
-                                        <a href={false}>
+                                        <a href="false">
                                             <img src="upload/instagram/6.jpg" alt="" />
                                         </a>
                                     </li>
@@ -220,35 +220,35 @@ const Articles = () => {
 								<h2>Latest Stories</h2>
 								<ul className="list-posts">
 									<li>
-										<a className="text-link" href={false}>Lifestyle</a>
+										<a className="text-link" href="false">Lifestyle</a>
 										<h2><a href="single-post.html">Fusce pellentesque suscipit.</a></h2>
 										<ul className="post-tags">
 											<li>2 days ago</li>
-											<li><a href={false}>0 comments</a></li>
+											<li><a href="false">0 comments</a></li>
 										</ul>
 									</li>
 									<li>
-										<a className="text-link" href={false}>Food</a>
+										<a className="text-link" href="false">Food</a>
 										<h2><a href="single-post.html">Integer vitae libero ac risus egestas placerat.</a></h2>
 										<ul className="post-tags">
 											<li>2 days ago</li>
-											<li><a href={false}>3 comments</a></li>
+											<li><a href="false">3 comments</a></li>
 										</ul>
 									</li>
 									<li>
-										<a className="text-link" href={false}>Lifestyle</a>
+										<a className="text-link" href="false">Lifestyle</a>
 										<h2><a href="single-post.html">Vestibulum commodo felisquis tortor.</a></h2>
 										<ul className="post-tags">
 											<li>4 days ago</li>
-											<li><a href={false}>0 comments</a></li>
+											<li><a href="false">0 comments</a></li>
 										</ul>
 									</li>
 									<li>
-										<a className="text-link" href={false}>Travel</a>
+										<a className="text-link" href="false">Travel</a>
 										<h2><a href="single-post.html">Quisque a lectus. </a></h2>
 										<ul className="post-tags">
 											<li>4 days ago</li>
-											<li><a href={false}>0 comments</a></li>
+											<li><a href="false">0 comments</a></li>
 										</ul>
 									</li>
 								</ul>

@@ -5,7 +5,7 @@ const Advertise = () => {
         <section className="advertise-section">
 			<div className="container">
 				<div className="advertise-box">
-					<a href={false}>
+					<a href="false">
                         <img src="upload/banners/ban5.jpg" alt="" />
                     </a>
 				</div>
