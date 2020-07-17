@@ -7,7 +7,7 @@ import RelatedBox from './RelatedBox';
 const Content = () => {
     return (
         <div className="single-post-content">
-            <img src="upload/single/4.jpg" />
+            <img src="upload/single/4.jpg" alt=""/>
             
             <div className="post-content">
                 <ContextSocial />

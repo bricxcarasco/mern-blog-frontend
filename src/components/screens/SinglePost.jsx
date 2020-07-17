@@ -13,13 +13,11 @@ const SinglePost = () => {
             <Header />
                 <Slider />
                 <section className="blog-section">
-                    <div className="container">
-                        <div className="single-post no-sidebar">
-                            <Title />
-                            <Content />
-                            <Comments />
-                            <ContactForm />
-                        </div>
+                    <div className="single-post no-sidebar">
+                        <Title />
+                        <Content />
+                        <Comments />
+                        <ContactForm />
                     </div>
                 </section>
             <Footer />

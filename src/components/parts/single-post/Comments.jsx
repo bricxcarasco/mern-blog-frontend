@@ -8,7 +8,7 @@ const Comments = () => {
             </h2>
             <ul className="comments__list">
                 <li className="comments__list-item">
-                    <img className="comments__list-item-image" src="upload/single/th1.jpg" />
+                    <img className="comments__list-item-image" src="upload/single/th1.jpg" alt=""/>
                     <div className="comments__list-item-content">
                         <h3 className="comments__list-item-title">
                             Philip W
@@ -16,7 +16,7 @@ const Comments = () => {
                         <span className="comments__list-item-date">
                             Posted October 7, 2018
                         </span>
-                        <a className="comments__list-item-reply" href="#">
+                        <a className="comments__list-item-reply" href="false">
                             <i className="la la-mail-forward"></i>
                             Reply
                         </a>
@@ -26,7 +26,7 @@ const Comments = () => {
                     </div>
                 </li>
                 <li className="comments__list-item">
-                    <img className="comments__list-item-image" src="upload/single/th2.jpg" />
+                    <img className="comments__list-item-image" src="upload/single/th2.jpg" alt=""/>
                     <div className="comments__list-item-content">
                         <h3 className="comments__list-item-title">
                             Philip W
@@ -34,7 +34,7 @@ const Comments = () => {
                         <span className="comments__list-item-date">
                             Posted October 7, 2018
                         </span>
-                        <a className="comments__list-item-reply" href="#">
+                        <a className="comments__list-item-reply" href="false">
                             <i className="la la-mail-forward"></i>
                             Reply
                         </a>

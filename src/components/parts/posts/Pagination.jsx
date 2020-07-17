@@ -4,9 +4,9 @@ const Pagination = () => {
     return (
         <div className="pagination-box">
             <ul className="pagination-list">
-                <li><a href="#" className="active">1</a></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">Next Page <i className="fa fa-angle-right"></i></a></li>
+                <li><a href="false" className="active">1</a></li>
+                <li><a href="false">2</a></li>
+                <li><a href="false">Next Page <i className="fa fa-angle-right"></i></a></li>
             </ul>
         </div>
     );
